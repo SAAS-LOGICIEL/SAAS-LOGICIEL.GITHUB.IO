@@ -485,7 +485,6 @@ h6,
   color: #000000;
 }
 
-
 #menu-8 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -547,8 +546,11 @@ h6,
 #menu-8 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box4-d .btn {
-  font-family: 'Raleway', sans-serif;
+#msg-box3-34 .mbr-section-title,
+#msg-box3-34 p {
+  color: #000;
+}
+#buttons1-36 .btn {
   font-size: 22px;
 }
 #header3-e .mbr-section-title,
@@ -559,12 +561,44 @@ h6,
 #msg-box8-f p {
   color: #fff;
 }
+#header3-1z .mbr-section-title,
+#header3-1z .mbr-section-subtitle {
+  text-align: center;
+}
+#features4-20 .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-20 .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#features4-21 .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-21 .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#msg-box8-22 .mbr-section-title,
+#msg-box8-22 p {
+  color: #fff;
+}
+#msg-box8-22 .btn {
+  font-size: 22px;
+}
+#msg-box8-23 .mbr-section-title,
+#msg-box8-23 p {
+  color: #fff;
+}
 #msg-box8-i .mbr-section-title,
 #msg-box8-i p {
   color: #fff;
 }
 #msg-box8-i .mbr-section-title {
   font-size: 46px;
+}
+#msg-box8-i .lead H4 {
+  color: #ffffff;
 }
 #header3-j .mbr-section-title,
 #header3-j .mbr-section-subtitle {
@@ -638,8 +672,11 @@ h6,
   text-align: center;
 }
 #header3-w SMALL {
-  color: #000000;
+  color: #ffffff;
   font-size: 23px;
+}
+#header3-w H3 {
+  color: #ffffff;
 }
 #header3-x .mbr-section-title,
 #header3-x .mbr-section-subtitle {
@@ -651,6 +688,7 @@ h6,
 }
 #header3-y H3 {
   color: #b8312f;
+  font-size: 72px;
 }
 #header3-11 .mbr-section-title,
 #header3-11 .mbr-section-subtitle {
@@ -718,11 +756,129 @@ h6,
   color: #ffffff;
 }
 #msg-box3-1q .lead H4 {
-  color: #b8312f;
+  color: #000000;
 }
 #msg-box3-1q .btn {
   font-size: 22px;
   font-family: 'Raleway', sans-serif;
+}
+#testimonials1-24 .card-footer > small {
+  color: #232323;
+}
+#msg-box3-25 .mbr-section-title,
+#msg-box3-25 p {
+  color: #000;
+}
+#msg-box3-25 .mbr-section-title DIV {
+  font-size: 32px;
+}
+#header3-26 .mbr-section-title,
+#header3-26 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-29 .mbr-section-title,
+#header3-29 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-29 SMALL {
+  font-size: 20px;
+  color: #232323;
+}
+#header3-2b .mbr-section-title,
+#header3-2b .mbr-section-subtitle {
+  text-align: center;
+}
+#features4-2c .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-2c .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#msg-box3-2e .mbr-section-title,
+#msg-box3-2e p {
+  color: #000;
+}
+#msg-box3-2e .mbr-section-title {
+  color: #000000;
+}
+#msg-box3-2e .lead P {
+  color: #ffffff;
+}
+#msg-box3-2e .lead H3 {
+  color: #000000;
+}
+#msg-box3-2e .btn {
+  font-size: 22px;
+}
+#msg-box3-2g .mbr-section-title,
+#msg-box3-2g p {
+  color: #000;
+}
+#msg-box3-2g .btn {
+  font-size: 22px;
+}
+#header3-2j .mbr-section-title,
+#header3-2j .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2n .mbr-section-title,
+#header3-2n .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2n SMALL {
+  color: #000000;
+}
+#testimonials1-2q .card-footer > small {
+  color: #000000;
+}
+#msg-box8-2r .mbr-section-title,
+#msg-box8-2r p {
+  color: #fff;
+}
+#msg-box8-2r .mbr-section-title DIV {
+  font-size: 22px;
+}
+#msg-box8-2r .mbr-section-title {
+  font-size: 22px;
+  color: #000000;
+}
+#msg-box8-2r .lead H4 {
+  font-size: 30px;
+}
+#header3-2v .mbr-section-title,
+#header3-2v .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2y .mbr-section-title,
+#header3-2y .mbr-section-subtitle {
+  text-align: center;
+}
+#buttons1-2z .btn {
+  font-size: 24px;
+}
+#msg-box4-31 H3 {
+  font-size: 30px;
+}
+#msg-box3-32 .mbr-section-title,
+#msg-box3-32 p {
+  color: #000;
+}
+#msg-box3-32 .lead P {
+  text-align: left;
+}
+#msg-box3-32 .btn {
+  font-size: 22px;
+}
+#header3-33 .mbr-section-title,
+#header3-33 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-33 DIV {
+  font-size: 22px;
+}
+#header3-33 H3 {
+  color: #b8312f;
 }
 #footer1-a P {
   color: #000000;

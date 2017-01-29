@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SAAS-LOGICIEL",
-    "currentPage": "index.html",
+    "currentPage": "LA-PUISSANCE-DE-PHOTOSHOP-SUR-LE-CLOUD.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 71,
+    "uniqCompNum": 116,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/icone-edi-1-128x234.png",
     "noImageResize": "",
@@ -125,7 +125,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SAAS-LOGICIEL</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"LAPUISSANCEDEPHOTOSHOPSURLECLOUD.html\">GRAPHISME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.jvzoo.com/b/56067/247023/1\">BOUTIQUE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"LA-PUISSANCE-DE-PHOTOSHOP-SUR-LE-CLOUD.html\">GRAPHISME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.jvzoo.com/b/56067/247023/1\">BOUTIQUE</a></li>"
         },
         {
           "_inherit": "header1",
@@ -244,7 +244,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=6MyALKnMUxQ",
+              "src": "https://youtu.be/shfGEsi63ak",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -383,61 +383,84 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"LAPUISSANCEDEPHOTOSHOPSURLECLOUD.html\">GRAPHISME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.jvzoo.com/b/56067/247023/1\">BOUTIQUE</a></li>"
         },
         {
-          "_inherit": "msg-box5",
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box4",
-          "_styles": {
-            ".btn": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "msg-box4-d",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-34",
           "_params": {
-            "imageSize": 50,
             "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
-            "bgColor": "#3d8eb9",
-            "bgColorRadio": false,
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#fac51c",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
+            "overlayColor": "#222",
             "showTitle": true,
             "showText": false,
-            "showButtons": true
+            "showButton": false
+          },
+          "title": "Créer facilement de superbes dessins, logos et bannières avec la pression d'un bouton",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-35",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 4,
+            "bgColor": "#fac51c",
+            "showText": false
           },
           "media": {
             "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=6MyALKnMUxQ",
-              "aspectratio": "16:9",
+              "class": "mbr-embedded-video",
+              "src": "https://youtu.be/shfGEsi63ak",
               "autoplay": "on",
               "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
             }
           },
-          "title": "<div>Créer facilement de superbes dessins, logos et bannières avec la pression d'un bouton</div>",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.jvzoo.com/b/56067/247023/1\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>JE VEUX CE LOGICIEL</a>"
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-36",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fac51c"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.jvzoo.com/b/56067/247023/1\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>JE VEUX CE LOGICIEL</a> ",
+          "_styles": {
+            ".btn": {
+              "font-size": "22px"
+            }
+          }
         },
         {
           "_styles": {
@@ -456,7 +479,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Ne payez plus des frais élevés pour les logos, bannières ou des graphiques qui ressemblent à une merde",
+          "title": "Ne payez plus des frais élevés pour les logos, bannières ou graphiques qui ressemblent à une merde",
           "meta": "Profitez de notre 80% Discount Disponible pendant les heures tôt d'oiseaux SEULEMENT!"
         },
         {
@@ -483,7 +506,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.8",
             "overlayColor": "#222",
             "showTitle": true,
             "showText": false,
@@ -491,6 +514,360 @@
           },
           "title": "Mortel, facile et garantit des&nbsp;<div>images étonnantes et des dessins pour vos sites</div>",
           "text": "<p>De plus , tout est newbie étape par étape conviviale dans ce tout-en-un des graphiques,&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1z",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Entièrement fait-pour-vous convertir des images avec haute qualité au niveau du concepteur en 60 secondes à plat!",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#f2f2f2",
+              "border-color": "#f2f2f2"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-20",
+          "_params": {
+            "iconsBgColor": "#f2f2f2",
+            "paddingTop": 2,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 3,
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "edit2",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Créez facilement des dessins jaw-dropping directement à partir de votre navigateur en utilisant nos modèles intégrés",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "touch",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Drag &amp; Drop newbie éditeur convivial vous permet de modifier tout",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "pictures",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Créer &amp; Modifier Images, Logos, bannières, Box Covers &amp; more",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#f2f2f2",
+              "border-color": "#f2f2f2"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-21",
+          "_params": {
+            "iconsBgColor": "#f2f2f2",
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 3,
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "cursor-click",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "<br>Curate millions et des images et des graphiques avec 1-clic.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Commencez en moins de 60 secondes - aucune expérience technique nécessaire",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "cash",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Pas de frais mensuels, pas de logiciel coûteux, aucune limitation<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".btn": {
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-22",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1221.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": true
+          },
+          "title": "Sécurisez votre licence à vie Pour&nbsp;<span style=\"font-size: 3rem; line-height: 1.1;\">La meilleure éditeur d'image et graphique jamais conçu</span>",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.jvzoo.com/b/56067/247023/1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JE VEUX EN PROFITER</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-23",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#3d8eb9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Utilisez notre plate-forme pour les dessins et modèles Stupide-simples",
+          "text": "<p>Ne jamais avoir à payer pour des graphiques ou de perdre du temps à la recherche d'images.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -557,6 +934,9 @@
             },
             ".mbr-section-title": {
               "font-size": "46px"
+            },
+            ".lead H4": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -565,9 +945,9 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-i",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "parallax": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
             "bgColor": "#F2F2F2",
@@ -584,7 +964,7 @@
             "showButton": false
           },
           "title": "Enfin vous pouvez avoir de Haute-Conversion ...",
-          "text": "<p>Sites professionnels, des pages et des graphiques comme les gourous font sans dépenser&nbsp;</p>",
+          "text": "<h4>Sites professionnels, des pages et des graphiques comme les gourous font sans dépenser&nbsp;</h4>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -604,7 +984,7 @@
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "Il est si facile pour que vous puissiez le faire en 3 étapes simples:<br>",
+          "title": "<br>Il est si facile pour que vous puissiez le faire en 3 étapes simples:<br>",
           "meta": "e"
         },
         {
@@ -627,11 +1007,11 @@
           "_anchor": "msg-box3-l",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -645,7 +1025,7 @@
             "showButton": false
           },
           "title": "Étape 1",
-          "text": "<h2><br></h2><h2>Se connecter sur notre plate - forme de cloud et d' ajouter votre image,&nbsp;</h2><p><b>vous avez 3 options :</b></p>",
+          "text": "<h2><br></h2><h2>Se connecter sur notre plate - forme de cloud et d' ajouter votre image,&nbsp;</h2><p><b><br></b></p><p><b>vous avez 3 options :</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -697,7 +1077,7 @@
               "family": "et-line"
             }
           },
-          "title1": "Une option",
+          "title1": "option A",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">Sélectionnez l'un des 500+ modèles intégrés qui permettent de créer de superbes pour les logos, bannières, des images ou des graphiques</span><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -984,7 +1364,7 @@
           "_anchor": "image2-v",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "4",
             "bgColor": "#fff",
             "showText": false
           },
@@ -1010,8 +1390,11 @@
               "text-align": "center"
             },
             "SMALL": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-size": "23px"
+            },
+            "H3": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -1022,7 +1405,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#358ef1",
+            "bgColor": "#212738",
             "showMeta": true
           },
           "title": "Vous voulez de tels résultats?",
@@ -1054,7 +1437,8 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#b8312f"
+              "color": "#b8312f",
+              "font-size": "72px"
             }
           },
           "_tags": [
@@ -1079,7 +1463,7 @@
           "_anchor": "image2-z",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgColor": "#fff",
             "showText": false
           },
@@ -1152,7 +1536,7 @@
             "bgColor": "#ffffff",
             "showMeta": true
           },
-          "title": "logiciel basé sur le cloud",
+          "title": "Logiciel basé sur le cloud",
           "meta": "Nous faisons tout l'hébergement pour vous - cela signifie que vous êtes en appuyant sur un bouton et d'obtenir une image de haute qualité que vous pouvez éditer et de partager avec un clic. Pas de tracas impliqués."
         },
         {
@@ -1162,8 +1546,8 @@
           "_name": "image2",
           "_anchor": "image2-13",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#ffffff",
             "showText": false
           },
@@ -1195,8 +1579,8 @@
           "_name": "header3",
           "_anchor": "header3-14",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "bgColor": "#efefef",
             "showMeta": true
           },
@@ -1210,8 +1594,8 @@
           "_name": "image2",
           "_anchor": "image2-15",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "3",
             "bgColor": "#efefef",
             "showText": false
           },
@@ -1306,8 +1690,8 @@
           "_name": "image2",
           "_anchor": "image2-19",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgColor": "#efefef",
             "showText": false
           },
@@ -1339,7 +1723,7 @@
           "_name": "header3",
           "_anchor": "header3-1c",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": false
@@ -1388,8 +1772,8 @@
           "_name": "header3",
           "_anchor": "header3-1a",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "bgColor": "#efefef",
             "showMeta": true
           },
@@ -1437,12 +1821,12 @@
           "_name": "header3",
           "_anchor": "header3-1e",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "un editeur Drag &amp; drop",
+          "title": "Un editeur Drag &amp; drop",
           "meta": "Il est si facile à utiliser, vous comprendrez comment cela fonctionne avant de pouvoir dire \"image\""
         },
         {
@@ -1453,7 +1837,7 @@
           "_anchor": "video2-1t",
           "_params": {
             "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingBottom": "5",
             "bgColor": "#fff",
             "showText": false
           },
@@ -1486,7 +1870,7 @@
           "_name": "header3",
           "_anchor": "header3-1g",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgColor": "#efefef",
             "showMeta": true
@@ -1535,12 +1919,12 @@
           "_name": "header3",
           "_anchor": "header3-1i",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "logiciel basé sur lSEO optimisée cloud",
+          "title": "Logiciel basé sur cloud SEO optimisée",
           "meta": "Ces images sont pleines de Google-amour vous aidant à mieux se placer."
         },
         {
@@ -1584,7 +1968,7 @@
           "_name": "header3",
           "_anchor": "header3-1k",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#efefef",
             "showMeta": true
@@ -1681,7 +2065,7 @@
           "_name": "header3",
           "_anchor": "header3-1o",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgColor": "#efefef",
             "showMeta": true
@@ -1697,7 +2081,7 @@
           "_anchor": "video2-1x",
           "_params": {
             "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingBottom": "6",
             "bgColor": "#efefef",
             "showText": false
           },
@@ -1731,7 +2115,7 @@
               "color": "#ffffff"
             },
             ".lead H4": {
-              "color": "#b8312f"
+              "color": "#000000"
             },
             ".btn": {
               "font-size": "22px",
@@ -1745,13 +2129,13 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-1q",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": false,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1344.jpg",
             "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -1764,8 +2148,1009 @@
             "showButton": true
           },
           "title": "Vous avez votre intérêt?",
-          "text": "<h4><br></h4><h4>Cliquez sur le \"Ajouter au panier\" ci - dessous et obtenir vos mains sur ce logiciel incroyable qui va résoudre tous vos problèmes Making Money For Life!</h4>",
+          "text": "<h4><br></h4><h4>Cliquez sur le \"JE VEUX CE LOGICIEL\" ci - dessous et obtenez ce logiciel incroyable qui va résoudre tous vos problèmes Graphisme À VIE!</h4>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.jvzoo.com/b/56067/247023/1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>JE VEUX CE LOGICIEL</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p>Je me sers ImageX depuis maintenant une semaine, et je peux dire que cela est le casse - tête manquant pour toute commercialisation en ligne . Il est devenu le logiciel que j'utilise le plus dans mon entreprise . J'ai toujours rêvé d'un moyen d'éditer des fichiers PSD en ligne, et vous pouvez maintenant avec drag &amp; drop simplicité.&nbsp;</p><p>Il est également suralimenté avec tous les principaux modèles de médias sociaux pour faire glisser et déposer et voila,&nbsp;</p><p>t son est un outil pour impressionner vos visiteurs et le public recommande vivement.</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Mustapha Ajermou",
+              "authorBio": "bourgeonnement Entrepreneur"
+            },
+            {
+              "text": "<p>ImageX est un excellent logiciel SAAS qui vous aidera à faire de haute qualité des dessins, des en- têtes et des bannières pour votre site web, logos et beaucoup de choses que vous économiser du temps et de l' argent, et en plus de cela, avec ImageX je peux démarrer une entreprise sur Fiverr vente concerts et de faire beaucoup d'argent . Ceci est vraiment génial - l' acheter maintenant!</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "B. Lahcen",
+              "authorBio": "Expert en ligne"
+            }
+          ],
+          "_anchor": "testimonials1-24",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showSubtitle": false,
+            "count": "2",
+            "showImages": false,
+            "showName": true,
+            "showBio": true
+          },
+          "title": "WHAT OUR FANTASTIC USERS SAY",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "_styles": {
+            ".card-footer > small": {
+              "color": "#232323"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "32px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-25",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "De: Radu, Ezzaky et Darin&nbsp;<div>RE: Enfin la solution idéale pour les commerçants</div>",
+          "text": "<p>Avouons la dure vérité: Vous savez déjà que vous avez besoin de beaux dessins dans votre entreprise en ligne ... qui comprend des images régulières tout autant que des logos, des bannières et des graphiques! Ils sont le «visage» de votre entreprise et un logo ou site web le plus professionnel semble, mieux vous regardez en face de vos visiteurs, abonnés par courriel ou clients payants.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">En fait, il a été prouvé que , tout en ayant un design moderne prospectifs et de beaux sites Web que vous pouvez améliorer vos taux de conversion entre 33% et 225%.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Cela signifie que vous pourriez changer littéralement rien dans votre entreprise, à l'exception des logos et des bannières de votre entreprise, vous pouvez doubler vos profits ... littéralement du jour au lendemain.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Bottom line est - ce ... si vous n'êtes pas en utilisant des graphiques professionnels et des images dans votre entreprise, vous êtes absent dehors sur d' énormes paies!</span><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-26",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Heck, vous savez probablement déjà, mais jusqu'à présent, obtenir des logos de haute qualité, des bannières et des conceptions comme les \"gourous\" avez a été difficile:",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-27",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Vous auriez à payer un concepteur cher pour faire le travail pour vous, et attendre des jours voire des semaines pour le faire</p>",
+          "text2": "<p>Personne d'autre, peu importe comment talentueux, pourrait reproduire exactement ce qui est dans votre tête</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-28",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Le logiciel qui promets que vous pouvez faire vous-même ont été coûteux et incroyablement difficile à utiliser</p>",
+          "text2": "<p>Donc, à la fin vous êtes frustrés et ont besoin de faire des compromis dans votre entreprise</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "font-size": "20px",
+              "color": "#232323"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-29",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "Imaginer…",
+          "meta": "<br>Une nouvelle pièce légère de la technologie qui est si incroyablement si facile à utiliser qui vous permet de bénéficier des meilleures caractéristiques absolues et d'obtenir toutes les images, les graphiques et les dessins que vous avez toujours voulu avec tracas zéro ..."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2a",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#efefef",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-1400x436.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef",
+            "showMeta": false
+          },
+          "title": "Avec ImageX - Vous avez cette application simple&nbsp;<span style=\"color: inherit; font-size: 3rem; line-height: 1.1;\">qui vous permet de : Background Color</span>",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#f2f2f2",
+              "border-color": "#f2f2f2"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-2c",
+          "_params": {
+            "iconsBgColor": "#f2f2f2",
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 3,
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "search",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Trouver des images et des graphiques de haute qualité",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "edit2",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "les éditer à la perfection",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "image-gallery",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Publier eux et profiter de meilleures conversions, un meilleur classement, de meilleurs résultats",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".lead P": {
+              "color": "#ffffff"
+            },
+            ".lead H3": {
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-2e",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1334.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Tous Fait-Pour Vous en 60 Seconds",
+          "text": "<h3><br></h3><h3>Un système True End-To-End que vous ne même pas besoin d'hébergement pour!</h3>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.jvzoo.com/b/56067/247023/1\" data-toolbar=\"-mbrBtnMove\">JE VEUX CE LOGICIEL</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Vous payez combien chaque mois?</p><p><br></p><p>Voir, les chances sont que vous avez probablement besoin de quelques travaux de conception dans le passé ... peut-être pour un logo, peut-être était une bannière pour votre site web.</p><p><br></p><p>Mais chaque fois, vous avez été retenu par une barrière énorme: Les frais mensuels ridicules!</p><p><br></p><p>REGARDEZ ... 20 $ ici pour un logo ou $ 35 là-bas pour une bannière pourrait ne pas sembler beaucoup ... mais quand vous considérez que vous payez chaque fois que vous avez besoin d'un nouveau travail de conception, tout cela ajoute à des centaines de dollars ...</p><p><br></p><p>Sans oublier qu'il prend habituellement plusieurs jours pour le concepteur pour terminer le travail, seulement pour avoir l'air horrible et jamais convertir.</p><p><br></p><p>OU vous avez peut-être essayé Photoshop ou tout autre logiciel de conception qui prétend logos facile en quelques secondes ... seulement pour être dérouté par leur complexité.</p>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".btn": {
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-2g",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Enfin vous pouvez exporter votre Designer Cher&nbsp;<div>Et Inefficace Software</div>",
+          "text": "<h3>Commencez dès maintenant avec le plus simple, le&nbsp;<span style=\"color: inherit; font-size: 2rem; line-height: 1.1;\">plus professionnel du logiciel Logo de création sur la planète</span></h3>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.jvzoo.com/b/56067/247023/1\" data-toolbar=\"-mbrBtnMove\">JE VEUX CE LOGICIEL</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-2i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>Peu importe si vous êtes débutant, ou si vous avez déjà une entreprise en ligne réussie, payer pour le travail de concepteur est quelque chose que nous avons à faire face ...</p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">et considérant combien vous devez sortir de votre poche chaque mois, il est probablement malade juste penser à votre compte Paypal drainée.</span></p></blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Avec ImageX - This Is ALL GONE:",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-2k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Pas besoin de dépenser $$ par mois pour un designer cher qui fait à peine un travail décent</p>",
+          "text2": "<p>Pas besoin de perdre des heures à essayer de tout faire vous-même</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-2l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Pas besoin de perdre des centaines sur le logiciel qui est censé «aider», mais seulement vous confond plus</p>",
+          "text2": "<p>Pas besoin d'attendre des jours pour vos logos à finir ... 30 secondes de dessins superbes sont enfin une possibilité avec ImageX</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2n",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Sérieusement, il n'y a rien de ce genre sur le marché dès maintenant!r",
+          "meta": "Just Click jouer et regarder notre courte vidéo Walkthrough"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2o",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Any0tvmanzo",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-2p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Non seulement ImageX les meilleurs logiciels disponibles mains vers le bas pour vous permettre de rechercher, modifier et créer des graphiques de haute qualité, des images, des logos ou des bannières en SECONDES, il est également la solution la plus abordable disponible.</blockquote><blockquote>En fait, il est si bon - il est dans une ligue de son propre.</blockquote><blockquote>Il suffit de penser à ce sujet - vous pouvez obtenir ImageX pour le prix de seulement 1 logo créé par ce qu'on appelle les concepteurs \"pro\" ... et ont encore un peu d'argent de poche à gauche!</blockquote><blockquote>Oubliez payer des honoraires exorbitants ou aller avec l'option \"pas cher\", mais sacrifier beaucoup de qualité - ImageX offre le meilleur des deux mondes!</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p>ImageX = meilleur logiciel d'image EVER! Je ne peux littéralement pas croire que personne d'autre pensé à cela avant - il est génial et il vous économiser de l' argent et du temps pendant que vous démarquer de la concurrence . Ne pensez pas seulement ACT et de saisir cette MAINTENANT! Ce logiciel est étonnant, et ainsi est son prix.</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Bilal",
+              "authorBio": "Designer Professional"
+            },
+            {
+              "text": "<p>ImageX est rien de révolutionnaire. Il m'a littéralement sauvé des centaines de dollars - de payer pour une licence Photoshop je ne savais pas comment l'utiliser de toute façon, de payer un concepteur et développeur d'externaliser l' édition d'images pour moi. Je peux tout gérer moi - même avec ImageX et t - il meilleure partie est que maintenant il ne me prend que quelques secondes et ne me coûte rien . Big Thumbs Up!</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Rahil",
+              "authorBio": "Software Developer"
+            }
+          ],
+          "_anchor": "testimonials1-2q",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": false,
+            "count": "2",
+            "showImages": false,
+            "showName": true,
+            "showBio": true
+          },
+          "title": "Mais ne faites pas confiance à notre mot pour cela,&nbsp;<div>voici ce que REAL Marketers ont à dire à ce sujet ...</div>",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "_styles": {
+            ".card-footer > small": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "22px"
+            },
+            ".mbr-section-title": {
+              "font-size": "22px",
+              "color": "#000000"
+            },
+            ".lead H4": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2r",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "<span style=\"font-weight: normal;\">Vous êtes sur d'avoir accès à ce nouveau logiciel révolutionnaire</span><div><span style=\"font-weight: normal;\">qui permettra de doubler votre entreprise avec seulement quelques clics!</span></div>",
+          "text": "<h4>Donc , la question logique est ... Qui peut bénéficier de l' utilisation Le meilleur logiciel de conception du monde?</h4>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2v",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2969b0",
+            "showMeta": false
+          },
+          "title": "C'est simple ...",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-2s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2969b0"
+          },
+          "text1": "<p>Les propriétaires de sites qui ont besoin d'images et de graphiques constamment et veulent une solution abordable, efficace qui fonctionne simple et rapide</p>",
+          "text2": "<p>Toute personne qui valorise leur entreprise et de l'argent et ne sont pas prêts à sacrifier</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-2t",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2969b0"
+          },
+          "text1": "<p>Les gens avec des produits qui veulent faire plus de ventes ou du marketing d'affiliation ont besoin de meilleures conversions</p>",
+          "text2": "<p>Les gens qui veulent se démarquer face à la concurrence et attirer plus de clients.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-2u",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2969b0"
+          },
+          "text1": "<p>Marketers vidéo qui veulent ajouter une touche plus professionnelle à leurs vidéos</p>",
+          "text2": "<p>Les gens qui sont à la recherche pour les meilleurs dessins et graphiques pour leur entreprise</p>",
+          "text3": "<p>Déjà du marketing réussie qui veulent économiser beaucoup de temps et d'argent tout en améliorant la qualité</p>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2w",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-1400x1161.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<br><div>Regardez, il n'a même pas d'importance qui vous êtes ou ce que vous faites.</div>",
+          "text": "<p>Si vous voulez enfin réussir en ligne, faire de l'argent que vous voulez et de vivre la vie que vous rêvez, ImageX est pour vous.<br><br>Il est la meilleure alternative pour les concepteurs coûteux ou des logiciels complexes, tout en étant aussi incroyable simple à installer et à utiliser.<br><br>Vous obtenez le même travail magnifique que vous auriez à attendre des jours pour et payer 50 $ + pour ... instantanément et gratuitement.<br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "<span style=\"font-weight: normal;\">Passons en revue - Voici ce que vous obtenez aujourd'hui</span>",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2x",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/recap-imagex-1400x798.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2z",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.jvzoo.com/b/56067/247023/1\" data-toolbar=\"-mbrBtnMove\">Valeur totale You Get Aujourd'hui: 2176 $</a> ",
+          "_styles": {
+            ".btn": {
+              "font-size": "24px"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-30",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>J'espère que vous voyez comment nous pourrions facilement charger des centaines de dollars pour un outil révolutionnaire comme celui-ci, mais nous voulons vous offrir un prix attractif et abordable qui va enfin vous aider à obtenir le trafic viral de la meilleure façon possible - sans perdre une tonne d'argent !</p><p><br></p><p>Il suffit de prendre des mesures ... et je vous promets que vous ne serez pas déçu!</p>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-31",
+          "_params": {
+            "imageSize": "22",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/money-back-logo-1400x1389.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Garantie Satisfait Ou Remboursé De 30 Jours",
+          "text": "<p>Si pour une raison ou une autre le logiciel ne vous convenait pas dans les 30 jours suivant votre achat, vous bénéficiez d’une garantie satisfait ou remboursé à 100% sans qu’aucune question ne vous soit posée. Ainsi, tout le risque est pour les concepteurs et <b>vous ne risquez absolument RIEN</b>. De plus, vous pourrez garder la formation gratuite que je vous aurais envoyée.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "text-align": "left"
+            },
+            ".btn": {
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-32",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "MODERN STYLES",
+          "text": "<p>Pour votre réussite,</p><p><br></p><p>PS Vous pouvez essayer ImageX pendant 30 jours sans aucun soucis.</p><p><br></p><p>Écoutez, nous savons qu'il ya beaucoup d'outils logiciels de merde là-bas qui vous mènera nulle part. La plupart des logiciels est trop cher et un gaspillage d'argent. Donc, si vous êtes un peu sceptique, qui est parfaitement bien. Je suis tellement sûr que vous verrez le potentiel de ce logiciel révolutionnaire que je vous laisse essayer 100% sans risque.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.jvzoo.com/b/56067/247023/1\" data-toolbar=\"-mbrBtnMove\">JE VEUX EN PROFITER</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "DIV": {
+              "font-size": "22px"
+            },
+            "H3": {
+              "color": "#b8312f"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-33",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "CETTE OFFRE PEUT ÊTRE RETIRÉE À TOUT MOMENT!<br><div><br></div><div><span style=\"font-weight: normal;\">Cette offre à peine croyable peut-être retirée à tout instant par les concepteurs de ce logiciel, et il serait VRAIMENT DOMMAGE d’arriver TROP TARD. C’est pourquoi vous devez en profiter DÈS MAINTENANT.</span></div>",
+          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_tags": [
