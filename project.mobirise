@@ -981,7 +981,7 @@
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "3",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "showMeta": false
           },
           "title": "<br>Il est si facile pour que vous puissiez le faire en 3 étapes simples:<br>",
