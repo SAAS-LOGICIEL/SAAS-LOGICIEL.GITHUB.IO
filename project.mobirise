@@ -244,7 +244,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/shfGEsi63ak",
+              "src": "https://www.youtube.com/watch?v=qPkrygWLXuQ&t=205s",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -437,7 +437,7 @@
             "video": {
               "active": true,
               "class": "mbr-embedded-video",
-              "src": "https://youtu.be/shfGEsi63ak",
+              "src": "https://www.youtube.com/watch?v=qPkrygWLXuQ&t=205s",
               "autoplay": "on",
               "loop": false
             }
@@ -449,18 +449,18 @@
             "Theme"
           ],
           "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "22px"
+            }
+          },
           "_anchor": "buttons1-36",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#fac51c"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.jvzoo.com/b/56067/247023/1\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>JE VEUX CE LOGICIEL</a> ",
-          "_styles": {
-            ".btn": {
-              "font-size": "22px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.jvzoo.com/b/56067/247023/1\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>JE VEUX CE LOGICIEL</a> "
         },
         {
           "_styles": {
@@ -2156,6 +2156,11 @@
             "Theme"
           ],
           "_name": "testimonials1",
+          "_styles": {
+            ".card-footer > small": {
+              "color": "#232323"
+            }
+          },
           "testimonial": [
             {
               "text": "<p>Je me sers ImageX depuis maintenant une semaine, et je peux dire que cela est le casse - tête manquant pour toute commercialisation en ligne . Il est devenu le logiciel que j'utilise le plus dans mon entreprise . J'ai toujours rêvé d'un moyen d'éditer des fichiers PSD en ligne, et vous pouvez maintenant avec drag &amp; drop simplicité.&nbsp;</p><p>Il est également suralimenté avec tous les principaux modèles de médias sociaux pour faire glisser et déposer et voila,&nbsp;</p><p>t son est un outil pour impressionner vos visiteurs et le public recommande vivement.</p>",
@@ -2190,6 +2195,10 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
+            "count": "2",
+            "showImages": false,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
@@ -2199,19 +2208,10 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": false,
-            "showSubtitle": false,
-            "count": "2",
-            "showImages": false,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": false
           },
           "title": "WHAT OUR FANTASTIC USERS SAY",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "_styles": {
-            ".card-footer > small": {
-              "color": "#232323"
-            }
-          }
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
           "_inherit": "msg-box8",
@@ -2729,6 +2729,11 @@
             "Theme"
           ],
           "_name": "testimonials1",
+          "_styles": {
+            ".card-footer > small": {
+              "color": "#000000"
+            }
+          },
           "testimonial": [
             {
               "text": "<p>ImageX = meilleur logiciel d'image EVER! Je ne peux littéralement pas croire que personne d'autre pensé à cela avant - il est génial et il vous économiser de l' argent et du temps pendant que vous démarquer de la concurrence . Ne pensez pas seulement ACT et de saisir cette MAINTENANT! Ce logiciel est étonnant, et ainsi est son prix.</p>",
@@ -2763,6 +2768,10 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
+            "count": "2",
+            "showImages": false,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
@@ -2772,19 +2781,10 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": false,
-            "count": "2",
-            "showImages": false,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": false
           },
           "title": "Mais ne faites pas confiance à notre mot pour cela,&nbsp;<div>voici ce que REAL Marketers ont à dire à ce sujet ...</div>",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "_styles": {
-            ".card-footer > small": {
-              "color": "#000000"
-            }
-          }
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
           "_styles": {
@@ -3000,18 +3000,18 @@
             "Theme"
           ],
           "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "24px"
+            }
+          },
           "_anchor": "buttons1-2z",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.jvzoo.com/b/56067/247023/1\" data-toolbar=\"-mbrBtnMove\">Valeur totale You Get Aujourd'hui: 2176 $</a> ",
-          "_styles": {
-            ".btn": {
-              "font-size": "24px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.jvzoo.com/b/56067/247023/1\" data-toolbar=\"-mbrBtnMove\">Valeur totale You Get Aujourd'hui: 2176 $</a> "
         },
         {
           "_tags": [
@@ -3032,6 +3032,11 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "font-size": "30px"
+            }
+          },
           "_anchor": "msg-box4-31",
           "_params": {
             "imageSize": "22",
@@ -3078,12 +3083,7 @@
           },
           "title": "Garantie Satisfait Ou Remboursé De 30 Jours",
           "text": "<p>Si pour une raison ou une autre le logiciel ne vous convenait pas dans les 30 jours suivant votre achat, vous bénéficiez d’une garantie satisfait ou remboursé à 100% sans qu’aucune question ne vous soit posée. Ainsi, tout le risque est pour les concepteurs et <b>vous ne risquez absolument RIEN</b>. De plus, vous pourrez garder la formation gratuite que je vous aurais envoyée.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "font-size": "30px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_inherit": "msg-box8",
